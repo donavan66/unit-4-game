@@ -1,0 +1,78 @@
+body {
+    background-color: cadetblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: rgba(21, 43, 22, 0.884);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+
+#rules {
+    background-color: peachpuff;
+    width: 41%;
+    height: 310px;
+    overflow: auto;
+    margin-left: 20px;
+    top: 0px;
+
+}
+
+#gameTitle {
+    background-color: chocolate;
+    font-size: 40px;
+    padding: 40px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#randomNumber {
+    text-align: center;
+    font-size: 51px;
+    background-color: rgba(0, 100, 0, 0.651);
+    height: 80px;
+    width: 120px;
+    color: black;
+    float: left;
+    overflow: auto;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+#winLosses {
+    background-color: lightskyblue;
+    overflow: auto;
+    width: 80px;
+    margin-left: 10px;
+    height: 120px;
+    color: black;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+    float: left;
+}
+#scoreText {
+    background-color: mediumslateblue;
+    overflow: auto;
+    width: 240px;
+    color: black;
+    font-size: 24px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+#totalScore {
+    background-color: mediumslateblue;
+    overflow: auto;
+    width: 240px;
+    color: black;
+    font-size: 24px;
+    height: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+}
